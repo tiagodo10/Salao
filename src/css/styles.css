@@ -17,3 +17,28 @@
 #pole {
   width: 170px;
   align: "center"; }
+
+#tabela td {
+  width: 2px;
+  height: 5px;
+  padding: 5px; }
+
+#tesoura {
+  width: 230px;
+  align: "center";
+  padding: 10px; }
+
+#tesoura2 {
+  width: 210px;
+  align: "center";
+  padding: 10px; }
+
+#tesoura3 {
+  width: 220px;
+  align: "center";
+  padding: 10px; }
+
+#tesoura4 {
+  width: 200px;
+  align: "center";
+  padding: 10px; }
